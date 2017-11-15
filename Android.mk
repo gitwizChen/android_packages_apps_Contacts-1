@@ -44,6 +44,7 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-v7-recyclerview \
     android-support-v7-palette \
     android-support-v4 \
+    libSudaPinYin \
     com.android.vcard \
     guava \
     libphonenumber
